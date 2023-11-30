@@ -13,6 +13,16 @@
   /* Prevent inheritance from `body` */
 }
 
+/* Custom default button */
+.btn-ternario,
+.btn-ternario:hover,
+.btn-ternario:focus {
+  color: #111;
+  background-color: yellow;
+  text-shadow: none;
+  /* Prevent inheritance from `body` */
+}
+
 
 /*
  * Base structure
